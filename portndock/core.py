@@ -5,6 +5,7 @@ Core data structures and port detection functionality for portndock.
 import os
 import platform
 import re
+import shutil
 import sys
 from dataclasses import dataclass
 from typing import List, Optional, Tuple, Iterable

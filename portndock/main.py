@@ -33,7 +33,7 @@ For more help: https://github.com/decentaro/portndock
     parser.add_argument(
         "--version",
         action="version", 
-        version="portndock 1.0.0"
+        version="portndock 1.0.1"
     )
 
     subparsers = parser.add_subparsers(dest="command", help="Available commands")
